@@ -15,6 +15,18 @@ A functional interface is an interface that contains only one abstract method an
 Runnable, ActionListener, Comparable are some of the examples of functional interfaces. 
 
 
+
+Java SE 8 included four main kinds of functional interfaces which can be applied in multiple situations. These are:
+Consumer: The consumer interface of the functional interface is the one that accepts only one argument and nothing return:Example DoubleConsumer, IntConsumer, and LongConsumer
+Predicate:A function that accepts an argument and, in return, generates a boolean value as an answer is known as a predicate .
+Example: IntPredicate, DoublePredicate, and LongPredicate
+Function 
+Supplier.
+
+
+
+
+
 # Lamda
 lamda experession is enhancement of anonymous class.
 We can reduce the code using lamda expression.
