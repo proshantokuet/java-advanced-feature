@@ -31,3 +31,12 @@ Supplier.
 lamda experession is enhancement of anonymous class.
 We can reduce the code using lamda expression.
 Lamda expression is a clean and concise way of implementing of single method interface.
+
+
+## Collections.sort() in Java
+java.util.Collections.sort() method is present in java.util.Collections class. It is used to sort the elements present in the specified list of Collection in ascending order.
+It works similar to java.util.Arrays.sort() method but it is better then as it can sort the elements of Array as well as linked list, queue and many more present in it.
+
+## The double colon (::) operator
+The double colon (::) operator is known as the method reference in Java 8. Method references are expressions that have the same treatment as a lambda expression, but instead of providing a lambda body, they refer to an existing method by name. This can make your code more readable and concise.
+
